@@ -2,9 +2,14 @@
 
 After trying out Visual Studio Code, specifically the [VSCodium binaries](https://vscodium.com/), I decided to rewrite the theme I had for Geany under ["script-dump"](https://github.com/ctcl-bregis/script-dump/blob/main/themes/geany/black.conf) for Visual Studio Code.
 
-I have only tested/developed this theme on one system, with the following software versions:
+So far, I have just tested the theme on VSCodium version 1.80.1 on Linux x86-64 platforms. 
 
-- OS: Linux Mint 20.3 x86-64
-- IDE version: VSCodium 1.80.1
+I make improvements to the theme as I use it, so just a few languages and document formats are tested, which includes:
 
-Results with other environments may vary
+- CSS
+- HTML
+- Jinja2
+- JSON
+- Markdown
+- Python
+- Shell (BASH, sh, etc.)
