@@ -13,3 +13,5 @@ I make improvements to the theme as I use it, so just a few languages and docume
 - Markdown
 - Python
 - Shell (BASH, sh, etc.)
+- Rust
+
