@@ -8,10 +8,11 @@ I make improvements to the theme as I use it, so just a few languages and docume
 
 - CSS
 - HTML
-- Jinja2
+- JavaScript
+- Jinja2 (and Django's equivalent)
 - JSON
+- Lua
 - Markdown
 - Python
-- Shell (BASH, sh, etc.)
 - Rust
-
+- Shell (BASH, sh, etc.)
