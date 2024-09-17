@@ -738,7 +738,7 @@
         {
             "scope": "constant.regexp",
             "settings": {
-                "foreground": "#b46695"
+                "foreground": "#cc00cc"
             }
         },
         {
@@ -750,7 +750,7 @@
         {
             "scope": "entity.name.tag.css",
             "settings": {
-                "foreground": "#cc0066"
+                "foreground": "#ff9900"
             }
         },
         {
@@ -766,7 +766,7 @@
                 "source.scss entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#cc0066"
+                "foreground": "#ff9900"
             }
         },
         {
@@ -820,7 +820,7 @@
         {
             "scope": "meta.selector",
             "settings": {
-                "foreground": "#cc0066"
+                "foreground": "#00cc00"
             }
         },
         {
