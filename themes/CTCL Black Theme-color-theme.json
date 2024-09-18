@@ -772,7 +772,7 @@
         {
             "scope": "invalid",
             "settings": {
-                "foreground": "#f44747"
+                "foreground": "#ff0000"
             }
         },
         {
@@ -790,7 +790,7 @@
         {
             "scope": "markup.heading",
             "settings": {
-                "foreground": "#0000ff"
+                "foreground": "#00ffff"
             }
         },
         {
@@ -847,7 +847,7 @@
         {
             "scope": "meta.preprocessor.numeric",
             "settings": {
-                "foreground": "#b5cea8"
+                "foreground": "#009900"
             }
         },
         {
