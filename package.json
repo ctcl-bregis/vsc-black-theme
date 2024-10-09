@@ -1,10 +1,10 @@
 {
-  "name": "ctcl-black-theme",
-  "displayName": "CTCL Black Theme",
-  "description": "\"Port\" of the customized black.conf high-contrast dark theme I made for Geany",
-  "version": "0.1.2",
+  "name": "vsc-black",
+  "displayName": "vsc-black",
+  "description": "High contrast theme",
+  "version": "0.1.0",
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.94.0"
   },
   "categories": [
     "Themes"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "CTCL Black Theme",
+        "label": "vsc-black",
         "uiTheme": "hc-black",
-        "path": "./themes/CTCL Black Theme-color-theme.json"
+        "path": "./themes/vsc-black-color-theme.json"
       }
     ]
   }
