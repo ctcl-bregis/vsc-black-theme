@@ -1,7 +1,7 @@
 {
     // CTCL 2023-2024
     // CTCL Black Theme for VSCode
-    // July 23, 2023 - October 03, 2024
+    // July 23, 2023 - October 21, 2024
     "name": "vsc-black",
     "colors": {
         "button.background": "#000000",
@@ -859,5 +859,14 @@
                 "foreground": "#00ffff"
             }
         },
+        // Python
+        {
+            "scope": [
+                "support.variable.magic.python"
+            ],
+            "settings": {
+                "foreground": "#33cccc"                
+            }
+        }
     ]
 }
